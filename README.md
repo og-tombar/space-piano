@@ -6,4 +6,4 @@
 
 The current release of this project is an early work-in-progress, showcasing a React / Typescript application designed for 3D modeling and visualization of musical instruments, with React Three Fiber as the primary module for 3D rendering.
 
-Sound generation is currently not supported, and is #1 on the to do list of this project. You can still preview the project in its [current state](https://space-keyboard.ue.r.appspot.com/).
+Sound generation is currently not supported, and is #1 on the to do list of this project. You can still preview the project in its current state [here](https://space-keyboard.ue.r.appspot.com/).
